@@ -1,0 +1,7 @@
+README.txt
+setup.py
+rooms.egg-info/PKG-INFO
+rooms.egg-info/SOURCES.txt
+rooms.egg-info/dependency_links.txt
+rooms.egg-info/requires.txt
+rooms.egg-info/top_level.txt
